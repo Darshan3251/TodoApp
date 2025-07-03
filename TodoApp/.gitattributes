@@ -1,0 +1,4 @@
+*.aspx linguist-language=ASP.NET
+*.cs linguist-language=C#
+*.js linguist-vendored
+*.min.js linguist-vendored
